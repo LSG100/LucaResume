@@ -1,0 +1,23 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #122f8b73;
+}
+
+header {
+  text-align: center;
+  background-color:#9c9c9c
+}
+
+footer {
+  background-color: #9c9c9c;
+  text-align: center;
+}
+#sidebar{
+    width: 100%;
+    background-color: #adadad;    
+}
+
+.navMenu{
+    list-style-type: style type none;
+}
